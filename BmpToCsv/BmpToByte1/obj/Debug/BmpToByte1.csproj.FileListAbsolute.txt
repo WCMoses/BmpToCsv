@@ -1,0 +1,10 @@
+C:\testDev\BmpToByte1\BmpToByte1\bin\Debug\BmpToByte1.exe.config
+C:\testDev\BmpToByte1\BmpToByte1\bin\Debug\BmpToByte1.exe
+C:\testDev\BmpToByte1\BmpToByte1\bin\Debug\BmpToByte1.pdb
+C:\testDev\BmpToByte1\BmpToByte1\obj\Debug\BmpToByte1.csprojAssemblyReference.cache
+C:\testDev\BmpToByte1\BmpToByte1\obj\Debug\BmpToByte1.Form1.resources
+C:\testDev\BmpToByte1\BmpToByte1\obj\Debug\BmpToByte1.Properties.Resources.resources
+C:\testDev\BmpToByte1\BmpToByte1\obj\Debug\BmpToByte1.csproj.GenerateResource.cache
+C:\testDev\BmpToByte1\BmpToByte1\obj\Debug\BmpToByte1.csproj.CoreCompileInputs.cache
+C:\testDev\BmpToByte1\BmpToByte1\obj\Debug\BmpToByte1.exe
+C:\testDev\BmpToByte1\BmpToByte1\obj\Debug\BmpToByte1.pdb
